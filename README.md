@@ -1,2 +1,14 @@
 # crownoubo-lab
-HTML page archive and documentation
+
+公开页面文件归档
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
